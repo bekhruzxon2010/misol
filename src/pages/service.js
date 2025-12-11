@@ -11,7 +11,7 @@ export default function DentalServices() {
     },
     {
       title: "Dental Implants",
-      desc: "Permanent and natural-looking replacement for missing teeth.",
+      desc: "Permanent and natural-loo replacement for missing teeth.",
       longDesc:
         "Dental implants are titanium posts that replace missing teeth roots and support crowns that look and feel like natural teeth.",
       img: "/dent1.jpg",
